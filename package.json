@@ -1,0 +1,7 @@
+{
+  "name": "ai_plugin_demo",
+  "dependencies": {
+    "@marscode/baas-sdk": "^1.0.1",
+    "discord.js-selfbot-v13": "^3.4.5"
+  }
+}
